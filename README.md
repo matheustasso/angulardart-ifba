@@ -1,4 +1,4 @@
-# sistema_times
+# Sistema de Cadastro de Times
 
 A web app that uses [AngularDart](https://angulardart.dev) and
 [AngularDart Components](https://angulardart.dev/components).
